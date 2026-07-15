@@ -328,51 +328,25 @@ The application implements:
 
 ## Registration Page
 
-> Save the screenshot as:
-
-```
-screenshots/registration.png
-```
-
-```markdown
 ![Registration Page](screenshots/registration.png)
-```
 
 ---
 
 ## Login Page
 
-```
-screenshots/login.png
-```
-
-```markdown
 ![Login Page](screenshots/login.png)
-```
 
 ---
 
 ## Edit User Page
 
-```
-screenshots/edit.png
-```
-
-```markdown
 ![Edit User Page](screenshots/edit.png)
-```
 
 ---
 
 ## PostgreSQL Database
 
-```
-screenshots/database.png
-```
-
-```markdown
 ![PostgreSQL Database](screenshots/database.png)
-```
 
 ---
 
