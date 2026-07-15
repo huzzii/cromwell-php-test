@@ -12,7 +12,7 @@ return [
 
         'username' => 'postgres',
 
-        'password' => 'postgres123'
+        'password' => 'postgres_pasword'
 
     ]
 
